@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="F:/full-stack/java/libraries/jar_files/mysql-connector-java-8.0.30.jar"/>
-	<classpathentry kind="lib" path="F:/full-stack/java/libraries/jar_files/protobuf-java-3.19.4.jar"/>
+	<classpathentry kind="lib" path="F:/full-stack/java/libraries/jdbc_jar_files/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="F:/full-stack/java/libraries/jdbc_jar_files/protobuf-java-3.19.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
